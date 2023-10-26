@@ -2,8 +2,8 @@
 FACEBOOK ACCOUNT CLONER
 
 #### INSTALL TOOL ON TERMUX 
-point_down:<br>
-<br>firecrack fiture:<br>
+:<br>
+<br>TH-FB:<br>
 ```
 pkg update
 
