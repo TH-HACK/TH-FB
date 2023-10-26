@@ -1,9 +1,11 @@
 # TH-FB :fire:
 <h1 align="center">Hi 👋, I'm OTMAN BAKKAR</h1>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <h3 align="center">I am new to hacking im froom moroco🇲🇦</h3>
 
 <p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p>
 FACEBOOK ACCOUNT CLONER
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 #### INSTALL TOOL ON TERMUX 
 ###Install termux👇<a href="https://f-droid.org/repo/com.termux_118.apk">
