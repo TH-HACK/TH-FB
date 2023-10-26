@@ -1,11 +1,10 @@
-# Firecrack :fire:
-TH-FB 🧑‍💻
+# TH-FB :fire:
 FACEBOOK ACCOUNT CLONER
 
 #### INSTALL TOOL ON TERMUX 
 point_down:<br>
 <br>firecrack fiture:<br>
-...
+```
 pkg update
 
 pkg upgrade
@@ -27,4 +26,5 @@ git clone https://github.com/TH-HACK/TH-FB/
 cd TH-HACK
 
 python TH-FB.py
-...
+
+```
