@@ -6,7 +6,6 @@
 FACEBOOK ACCOUNT CLONER
 
 #### INSTALL TOOL ON TERMUX 
-:<br>
 <br>TH-FB:<br>
 ```
 pkg update
@@ -32,3 +31,6 @@ cd TH-HACK
 python TH-FB.py
 
 ```
+<h3 align="center">scrin 📷</h3>
+
+<<p align="left"> <img src="https://i.postimg.cc/Hn1JFQ6C/Screenshot-20231026-035201-Termux.jpg" alt="th-hack" /> </p>
