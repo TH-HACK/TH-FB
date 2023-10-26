@@ -27,7 +27,7 @@ pip install mechanize
 
 git clone https://github.com/TH-HACK/TH-FB/
 
-cd TH-HACK
+cd TH-FB
 
 python TH-FB.py
 
