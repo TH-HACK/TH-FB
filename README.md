@@ -6,8 +6,8 @@
 FACEBOOK ACCOUNT CLONER
 
 #### INSTALL TOOL ON TERMUX 
-<br>Install termux<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
-<br>TH-FB:<br>
+###Install termux👇<a href="https://f-droid.org/repo/com.termux_118.apk">
+<br>click install termux:<br>
 ```
 pkg update
 
