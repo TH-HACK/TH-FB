@@ -27,7 +27,7 @@ pip install futures
 
 pip install mechanize
 
-git clone https://github.com/TH-HACK/TH-FB/
+git clone https://github.com/TH-HACK/TH-FB.git
 
 cd TH-FB
 
